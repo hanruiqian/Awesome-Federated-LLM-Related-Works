@@ -3,6 +3,8 @@
 ## Table of Content
 
 - [Black-Box Prompting](#Black-Box-Prompting)
+- [Black-Box Prompting](#Hallucination/Knowledge-Enhanced/Chain-of-Thought)
+- [Black-Box Prompting](#In-Context-Learning-Related)
 
 ## Black-Box Prompting
 - [2023/03] **BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning** *Changdae Oh et al. CVPR2023.* [[paper](https://arxiv.org/abs/2303.14773)] [[code](https://github.com/changdaeoh/BlackVIP)]
