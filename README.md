@@ -23,8 +23,6 @@
 
 - [2023/06] **Learning to Learn from APIs: Black-Box Data-Free Meta-Learning** *Zixuan Hu et al. IJCAI 2023.* [[paper](https://arxiv.org/abs/2305.18413)][[code](https://github.com/Egg-Hu/BiDf-MKD)]
 
-- [2023/08] **Gradient-Free Textual Inversion** *Zhengcong Fei et al. IJCAI 2023.* [[paper](https://arxiv.org/abs/2304.05818)][[code](https://github.com/feizc/Gradient-Free-Textual-Inversion)]
-
 - [2023/08] **Gradient-Free Textual Inversion** *Zhengcong Fei et al. arxiv.* [[paper](https://arxiv.org/abs/2304.05818)]
 
 ## Hallucination/Knowledge Enhanced/Chain of Thought
