@@ -49,4 +49,3 @@
 ## In-Context Learning Related
 - [2023/05] **Can We Edit Factual Knowledge by In-Context Learning?** *Ce Zheng et al. IJCAI 2023.* [[paper](https://arxiv.org/abs/2305.12740)][[code](https://github.com/PKUnlp-icler/IKE)]
 
-- [2023/05] **Can We Edit Factual Knowledge by In-Context Learning?** *Ce Zheng et al. IJCAI 2023.* [[paper](https://arxiv.org/abs/2305.12740)][[code](https://github.com/PKUnlp-icler/IKE)]
