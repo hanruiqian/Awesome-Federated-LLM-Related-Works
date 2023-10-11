@@ -12,6 +12,8 @@
 
 - [2023/10] **FEDBPT: EFFICIENT FEDERATED BLACK-BOX PROMPT TUNING FOR LARGE LANGUAGE MODELS** *Jingwei Sun et al. arxiv.* [[paper](https://arxiv.org/abs/2310.01467)]
 
+- [2023/09] **LANGUAGE MODELS AS BLACK-BOX OPTIMIZERS FOR VISION-LANGUAGE MODELS** *Shihong Liu et al. arxiv.* [[paper](https://arxiv.org/abs/2309.05950)]
+
 - [2023/08] **Gradient-Free Textual Inversion** *Zhengcong Fei et al. arxiv.* [[paper](https://arxiv.org/abs/2304.05818)]
   
 - [2023/06] **Learning to Learn from APIs: Black-Box Data-Free Meta-Learning** *Zixuan Hu et al. IJCAI 2023.* [[paper](https://arxiv.org/abs/2305.18413)][[code](https://github.com/Egg-Hu/BiDf-MKD)]
@@ -53,11 +55,14 @@
 
 ## Distillation
 - [2023/08] **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** *Cheng-Yu Hsieh et al. arxiv.* [[paper](https://arxiv.org/abs/2305.02301)][[code](https://github.com/google-research/distilling-step-by-step)]
+- 
 - [2023/08] **UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition** *Wenxuan Zhou et al. arxiv.* [[paper](https://arxiv.org/abs/2308.03279)][[page](https://universal-ner.github.io/)][[code](https://github.com/universal-ner/universal-ner)]
   
 - [2023/05] **Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks** *Minki Kang et al. arxiv.* [[paper](https://arxiv.org/abs/2305.18395)]
 
-## Prompting/Fine-tuning
+## Prompting/Fine-tuning/Instruction Tuning
+- [2023/10] **Sweeping Heterogeneity with Smart MoPs: Mixture of Prompts for LLM Task Adaptation** *Chen Dun et al. arxiv.* [[paper](https://arxiv.org/abs/2310.02842)]
+
 - [2023/08] **Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation** *Fu-En Yang et al. ICCV 2023.* [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Efficient_Model_Personalization_in_Federated_Learning_via_Client-Specific_Prompt_Generation_ICCV_2023_paper.html)]
 
 - [2023/08] **FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning** *Haokun Chen et al. arxiv.* [[paper](https://arxiv.org/abs/2308.12305)]
@@ -70,4 +75,11 @@
 
 - [2023/05] **Towards Building the Federated GPT: Federated Instruction Tuning** *Jianyi Zhang et al. arxiv.* [[paper](https://arxiv.org/abs/2305.05644)]
 
+- [2023/05] **Instruction Tuned Models are Quick Learners** *Himanshu Gupta et al. arxiv.* [[paper](https://arxiv.org/abs/2306.05539)]
+
 - [2023/02] **Offsite-Tuning: Transfer Learning without Full Model** *Guangxuan Xiao et al. arxiv.* [[paper](https://arxiv.org/abs/2302.04870)]
+
+## Multi-Modal
+- [2023/10] **MMICL: EMPOWERING VISION-LANGUAGE MODEL WITH MULTI-MODAL IN-CONTEXT LEARNING** *Haozhe Zhao et al. arxiv.* [[paper](https://arxiv.org/abs/2309.07915)][[code](https://github.com/PKUnlp-icler/MIC)]
+
+- [2023/05] **DC-CCL: Device-Cloud Collaborative Controlled Learning for Large Vision Models** *Yucheng Ding et al. arxiv.* [[paper](https://arxiv.org/abs/2303.10361)]
