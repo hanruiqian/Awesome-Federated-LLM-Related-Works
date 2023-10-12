@@ -5,6 +5,11 @@
 - [Black-Box Prompting](#Black-Box-Prompting)
 - [Hallucination/Knowledge Enhanced/Chain of Thought](#Hallucination/Knowledge-Enhanced/Chain-of-Thought)
 - [In-Context Learning Related](#In-Context-Learning-Related)
+- [Privacy](#Privacy)
+- [Distillation](#Distillation)
+- [Prompting/Fine-tuning/Instruction Tuning](#Prompting/Fine-tuning/Instruction-Tuning)
+- [Multi-Modal](#Multi-Modal)
+
 
 ## Black-Box Prompting
 - [2023/10] **EFFICIENT FEDERATED PROMPT TUNING FOR BLACK-BOX LARGE PRE-TRAINED MODELS** *Zihao Lin et al. arxiv.* [[paper](https://arxiv.org/abs/2310.03123)]
